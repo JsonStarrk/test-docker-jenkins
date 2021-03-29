@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.starrk</groupId>
     <artifactId>test-docker-jenkins</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>test-docker-jenkins</name>
     <description>Demo project for Spring Boot</description>
 
